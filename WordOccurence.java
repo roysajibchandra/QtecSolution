@@ -24,5 +24,6 @@ public class WordOccurence {
     }
 
     input.close();
+    
   }
 }
